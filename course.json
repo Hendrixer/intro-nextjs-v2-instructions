@@ -13,6 +13,5 @@
   },
   "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
   "keywords": ["nextjs", "react", "javascript", "learn next.js"],
-  "productionBaseUrl": "/intro-nextjs-v2-instructions",
   "csvPath": "./out/lessons.csv"
 }
