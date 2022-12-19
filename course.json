@@ -1,18 +1,18 @@
 {
   "author": {
-    "name": "Brian Holt",
-    "company": "Stripe"
+    "name": "Scott Moss",
+    "company": "Initialized"
   },
-  "title": "Next.js Course Starter Kit",
+  "title": "Intro to Next.js v2",
   "subtitle": "for Frontend Masters",
-  "frontendMastersLink": "https://frontendmasters.com/courses/complete-react-v6/",
+  "frontendMastersLink": "https://frontendmasters.com/courses/intro-nextjs-v2/",
   "social": {
-    "linkedin": "btholt",
-    "github": "btholt",
-    "twitter": "holtbt"
+    "linkedin": "",
+    "github": "hendrixer",
+    "twitter": "scotups"
   },
   "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
-  "keywords": ["your", "Google", "keywords", "here"],
-  "productionBaseUrl": "/next-course-starter",
+  "keywords": ["nextjs", "react", "javascript", "learn next.js"],
+  "productionBaseUrl": "/intro-nextjs-v2-instructions",
   "csvPath": "./out/lessons.csv"
 }

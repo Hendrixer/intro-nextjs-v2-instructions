@@ -1,23 +1,23 @@
 :root {
-  --primary: #dfa067;
-  --secondary: #93aca7;
-  --highlight: #224159;
+  --primary: #272727;
+  --secondary: #000000;
+  --highlight: #7a00ec;
 
-  --text-header: var(--primary);
-  --text-main-headers: var(--highlight);
+  --text-header: white;
+  --text-main-headers: white;
   --text-links: #007bff;
-  --text-footer: #333;
+  --text-footer: white;
 
-  --bg-main: white;
-  --bg-dots: var(--highlight);
-  --bg-lesson: white;
+  --bg-main: #0a0f0d;
+  --bg-dots: rgb(36, 36, 36);
+  --bg-lesson: rgb(40, 40, 40);
 
   --nav-buttons: var(--highlight);
   --nav-buttons-text: white;
 
   --corner-active: var(--highlight);
   --corner-inactive: #f4f4f4;
-  --icons: var(--highlight);
+  --icons: rgb(234, 234, 234);
   --footer-icons: var(--highlight);
 
   --emphasized-bg: #dce8ff;
