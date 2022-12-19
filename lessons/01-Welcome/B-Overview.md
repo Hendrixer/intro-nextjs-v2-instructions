@@ -7,7 +7,7 @@ In this course, we'll be covering the basics of Next.js by building out a small 
 
 <br>
 
-Next.js is an incredibly powerful and deep framework, so we won't be covering everything in this course. Checkout the other coures on Building a Fullstack app with Next.js and Production grade Next.js to learn how to get the best out of this amazing framework.
+Next.js is an incredibly powerful and deep framework. So we won't be covering everything in this course. Checkout the other coures on Building a Fullstack app with Next.js and Production grade Next.js to learn how to get the best out of this amazing framework.
 
 [vercel]: https://vercel.com
 [nextjs]: https://nextjs.com
