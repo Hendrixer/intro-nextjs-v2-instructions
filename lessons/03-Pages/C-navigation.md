@@ -16,7 +16,7 @@ _How Navigation Works_
 
 ## Using the Link component
 
-In place of an anchor tag, we can use the `Link` component from `next/link` to handle click interactions that translate to page naviations. It's easier than ever to use.
+In place of an anchor tag, we can use the `Link` component from `next/link` to handle click interactions that translate to page navigations. It's easier than ever to use.
 
 ```tsx
 import Link from "next/link";

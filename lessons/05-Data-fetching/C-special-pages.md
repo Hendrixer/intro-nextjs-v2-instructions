@@ -14,7 +14,7 @@ export default function Loading() {
 
 <br>
 
-Then same is true for `error.tsx`. If your server component errors our whiile rendering, the error page component will show instead. This is the same as wrapping a component in an Error Boundry.
+Then same is true for `error.tsx`. If your server component errors out while rendering, the error page component will show instead. This is the same as wrapping a component in an Error Boundry.
 
 ```tsx
 export default function Error() {

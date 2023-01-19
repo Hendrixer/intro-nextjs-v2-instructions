@@ -10,7 +10,7 @@ The fastest way to get started with Next.js is to use `create-next-app`. It's ve
 create-next-app@latest --experimental-app
 ```
 
-This will install all the node_modules you need, setup a basic app with example code for you to get started. I recommend using this approach when starting a Next.js app.
+This will install the node_modules you need, and setup a basic app with example code for you to get started. I recommend using this approach when starting a Next.js app.
 
 ## Manually
 
@@ -44,4 +44,4 @@ const nextConfig = {
 module.exports = nextConfig;
 ```
 
-At this point, you have everything you need to get started, anything else from create-next-app is either optional or no necessary (like the example code it creates).
+At this point, you have everything you need to get started, anything else from create-next-app is either optional or not necessary (like the example code it creates).

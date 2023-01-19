@@ -1,5 +1,4 @@
-For scoped css, we can use css modules. Next.js has support for this built in.
-We just need to use the `.module.css` extension.
+For scoped CSS, we can use CSS modules. Next.js has support for this built in. We just need to use the `.module.css` extension.
 
 ```css
 .button {

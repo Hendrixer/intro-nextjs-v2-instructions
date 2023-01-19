@@ -1,12 +1,12 @@
 ---
-title: "Fetchig data"
+title: "Fetching data"
 ---
 
 ## Server components
 
-Pages and Layouts might need data before they render. Tapping into APIs, databases, and other sources. Data is cached and streamed to the client automatically. It is recommended to fetch data in server components do the backend can handle this. There are a few reasons for this:
+Pages and Layouts might need data before they render. Tapping into APIs, databases, and other sources. Data is cached and streamed to the client automatically. It is recommended to fetch data in server components so the backend can handle this. There are a few reasons for this:
 
-- They have access to backends like DBs
+- They have access to backends DBs
 - Keeping your app more secure by not exposing API keys and other secrets to the client
 - Reduce the load on the main thread in the browser by having both fetching and rendering happening in the same environment on the server
 - ...and many more reason
@@ -48,9 +48,9 @@ export default async function HomePage() {
 }
 ```
 
-### Getting data without fetch
+## Getting data without fetch
 
-Getting data without fetch in server components is supported as well. Like when using a DB, the filesystem, or 3rd party SDKs. You just won't get all the granular caching and deduping support that fetch has. You still will get the default caching that route segments have. There's so much more to caching, deduping, and revalidating. I recommend learning more [here](https://beta.nextjs.org/docs/data-fetching/caching).
+Getting data without fetch in server components is supported as well. Like when using a DB, the filesystem, or 3rd party SDKs. You just won't get all the granular caching and deduping support. You still will get the default caching for route segments. There's so much more to caching, deduping, and revalidating. I recommend learning more [here](https://beta.nextjs.org/docs/data-fetching/caching).
 
 ## Client components
 

@@ -1,11 +1,11 @@
-Next.js 13 is in beta at the time of this course. This means some things are subject to change. There's also so many things we didn't cover in the course that you shoul for sure checkout when you get the time. A few of them are.
+Next.js 13 is in beta at the time of this course. This means some things are subject to change. There's also so many things we didn't cover in the course that you should check out. A few of them are:
 
-- cahce revalidating
-- Image and Font optimaztions
+- Cache revalidating
+- Image and Font optimizations
 - cookies() and headers()
-- redirecting
+- Redirecting
 - notFound
-- upgrading from older versions
+- Upgrading from older versions [See the Docs](https://nextjs.org/docs/upgrading#upgrading-from-12-to-13)
 
 <br>
 

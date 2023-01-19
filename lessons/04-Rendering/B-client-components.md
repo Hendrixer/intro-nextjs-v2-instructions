@@ -31,18 +31,18 @@ const ContactForm = () => {
 
 ## When to use
 
-If your components need hooks like useState and useEffect, then you need it to be a client component.
+If your components need hooks like useState and useEffect, then they need to be a client component.
 
 <br>
 
-Also, 3rd party components that have yet to add the `"use client"` directive,. You will have to wrap them in your own client components.
+Also, there are 3rd party components that have yet to add the `"use client"` directive. You will have to wrap them in your own client components.
 
 ## When to use client vs server components.
 
-Basically alway use server components for all of your components unless it falls in 1 or more of these:
+Basically always use server components for all of your components unless it falls in 1 or more of these:
 
 - It needs interactivity and event listeners (onClick(), onChange(), etc)
 - It uses State and Lifecycle Effects (useState(), useReducer(), useEffect(), etc)
 - It uses browser-only APIs
 - It needs custom hooks that depend on state, effects, or browser-only APIs
-- Use React Class components
+- It uses React Class components

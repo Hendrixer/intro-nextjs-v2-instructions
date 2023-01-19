@@ -41,6 +41,9 @@ a {
   color: var(--text-links);
   text-decoration: none;
 }
+.lesson-container a{
+  text-decoration: underline;
+}
 
 .navbar {
   border-bottom: 1px solid #ccc;
