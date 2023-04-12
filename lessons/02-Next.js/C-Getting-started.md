@@ -7,8 +7,10 @@ description: "Getting starting from scratch"
 The fastest way to get started with Next.js is to use `create-next-app`. It's very simple, just run:
 
 ```bash
-create-next-app@latest --experimental-app
+create-next-app@13.1 --experimental-app
 ```
+
+> Note: Make sure you pin the Next.js version to 13.1
 
 This will install the node_modules you need, and setup a basic app with example code for you to get started. I recommend using this approach when starting a Next.js app.
 

@@ -334,7 +334,7 @@ header .cta-btn {
 
 blockquote {
   padding: 15px;
-  background-color: var(--emphasized-bg);
+  background-color: black;
   border: 2px solid var(--emphasized-border);
   border-radius: 5px;
   width: 100%;
