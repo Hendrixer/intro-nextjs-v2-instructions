@@ -1,0 +1,18 @@
+order,sectionTitle,lessonTitle,slug,sectionIcon,filePath,description
+01A,Welcome,Introduction,Welcome/intro,info-circle,/lessons/Welcome/intro,The introduction to this course.
+01B,Welcome,Overview,Welcome/Overview,info-circle,/lessons/Welcome/Overview,Everything about this course
+02A,Next.js,Introduction,Next.js/Topics-covered,code,/lessons/Next.js/Topics-covered,The introduction to this course.
+02B,Next.js,What is Next.js,Next.js/What-is-Nextjs,code,/lessons/Next.js/What-is-Nextjs,What is Next.js and how does it compare to other frameworks
+02C,Next.js,Getting Started,Next.js/Getting-started,code,/lessons/Next.js/Getting-started,Getting starting from scratch
+03A,Pages,Defining routes,Pages/defining-routes,file-code,/lessons/Pages/defining-routes,""
+03B,Pages,Layouts and Pages,Pages/layouts,file-code,/lessons/Pages/layouts,""
+03C,Pages,Navigation,Pages/navigation,file-code,/lessons/Pages/navigation,""
+04A,Rendering,Server Components,Rendering/server-components,bolt,/lessons/Rendering/server-components,""
+04B,Rendering,Client Components,Rendering/client-components,bolt,/lessons/Rendering/client-components,""
+05A,Data Fetching,Fetching data,Data-fetching/fetching,table,/lessons/Data-fetching/fetching,""
+05B,Data Fetching,Static Params,Data-fetching/static-params,table,/lessons/Data-fetching/static-params,""
+05C,Data Fetching,Special Pages,Data-fetching/special-pages,table,/lessons/Data-fetching/special-pages,""
+05D,Data Fetching,Fetchig data,Data-fetching/mutating,table,/lessons/Data-fetching/mutating,""
+06A,Styling,Global and External Css,Styling/global-and-external-css,paint-roller,/lessons/Styling/global-and-external-css,""
+06B,Styling,Css Modules,Styling/css-modules,paint-roller,/lessons/Styling/css-modules,""
+07A,Futher Learning,Learn More,futher-learning/learn-more,info-circle,/lessons/futher-learning/learn-more,""
