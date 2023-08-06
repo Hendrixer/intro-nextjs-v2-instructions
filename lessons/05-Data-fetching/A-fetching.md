@@ -15,7 +15,7 @@ Pages and Layouts might need data before they render. Tapping into APIs, databas
 
 ### Fetch
 
-React extends the `fetch` function to provide automatic request deduplication. This is on a per request basis. Next.js extends fetch by allowing us to customuze how we cache certain data. We can access fetch globally without any imports and it works mostly the same.
+React extends the `fetch` function to provide automatic request deduplication. This is on a per request basis. Next.js extends fetch by allowing us to customize how we cache certain data. We can access fetch globally without any imports and it works mostly the same.
 
 ```ts
 fetch("https://api.data.com/...");
